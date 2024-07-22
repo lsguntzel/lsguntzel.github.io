@@ -14,8 +14,8 @@ round-avatar: true
 navigation:
   - text: "Home"
     url: "/"
-  - text: "About"
-    url: "/aboutme/"
+#  - text: "About"
+#    url: "/aboutme/"
   - text: "Contact"
     url: "/contact/"
 
@@ -42,9 +42,7 @@ post_search: true
 edit_page_button: true
 navbar-var-length: false
 
-# More configuration settings...
-
-theme: jekyll-theme
+theme: "beautiful-jekyll"
 
 date_format: "%B %-d, %Y"
 
@@ -52,6 +50,3 @@ date_format: "%B %-d, %Y"
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
-# Beutiful Jekyll / Dean Attali
-# 2fc73a3a967e975999c9763d05e564189
