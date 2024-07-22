@@ -19,8 +19,8 @@ layout: null
   --footer-hover-col: {{ site.footer-hover-col | default: "#0085A1" }};
 
   /* common CSS variables */
-  --body-font: 'Lora', 'Times New Roman', serif;
-  --header-font: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  --body-font: 'Montserrat', 'Times New Roman', serif; /* Updated to Montserrat */
+  --header-font: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif; /* Updated to Montserrat */
   --mid-col: #808080;
 }
 
