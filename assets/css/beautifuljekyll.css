@@ -348,12 +348,8 @@ img {
 .navbar-custom .avatar-container {
   position: absolute;
   left: 50%;
-  width: 3.125rem;
-  bottom: -1.5rem;
-  transition: opacity 0.5s ease-in-out;
-  -webkit-transition: opacity 0.5s ease-in-out;
-  -moz-transition: opacity 0.5s ease-in-out;
-}
+  width: 3.125rem; /* Original size */
+  bottom: -1.5rem; /* Original position */
   transition: opacity 0.5s ease-in-out;
   -webkit-transition: opacity 0.5s ease-in-out;
   -moz-transition: opacity 0.5s ease-in-out;
@@ -387,8 +383,8 @@ img {
 
 @media (min-width: 1200px) {
   .navbar-custom.top-nav-regular .avatar-container {
-    width: 6.25rem;
-    bottom: -1.9375rem;
+    width: 6.25rem; /* Original size for larger screens */
+    bottom: -1.9375rem; /* Original position for larger screens */
   }
 
   .navbar-custom.top-nav-regular .avatar-container .avatar-img-border {
