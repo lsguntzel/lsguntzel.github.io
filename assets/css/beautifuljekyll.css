@@ -22,30 +22,6 @@ layout: null
   --body-font: 'Montserrat', 'Times New Roman', serif; /* Updated to Montserrat */
   --header-font: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif; /* Updated to Montserrat */
   --mid-col: #808080;
-
-  /* new font size variables */
-  --h1-font-size: 24px; /* 18pt in Google Docs */
-  --h2-font-size: 17.333px; /* 13pt in Google Docs */
-  --body-font-size: 17.333px; /* 13pt in Google Docs */
-}
-
-/* Headings and body text */
-h1 {
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 300; /* Light */
-  font-size: var(--h1-font-size);
-}
-
-h2 {
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 500; /* Medium */
-  font-size: var(--h2-font-size);
-}
-
-body {
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 300; /* Light */
-  font-size: var(--body-font-size);
 }
 
 /* --- General --- */
@@ -76,17 +52,21 @@ p {
   line-height: 1.5;
   margin: 1.875rem 0;
 }
-h1,h2,h3,h4,h5,h6 {
+h1, h2, h3, h4, h5, h6 {
   font-family: var(--header-font);
-  font-weight: 800;
   line-height: 1.1;
 }
+
+/* Adjusting h1 and h2 settings */
 h1 {
-  font-size: 2.25rem;
+  font-size: 2.25rem; /* Equivalent to 18pt */
+  font-weight: 300;  /* Montserrat Light */
 }
 h2 {
-  font-size: 1.875rem;
+  font-size: 1.625rem; /* Equivalent to 13pt */
+  font-weight: 500;  /* Montserrat Medium */
 }
+
 h3 {
   font-size: 1.5rem;
 }
