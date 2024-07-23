@@ -4,7 +4,7 @@ title: Prismatic Psychotherapy
 permalink: /
 ---
 
-![Prismatic Psychotherapy Logo](assets/images/prismatic-logo-web.png)
+![Prismatic Psychotherapy Logo](assets/img/prismatic-logo-web.png)
 
 ### Multifaceted therapy for a whole, rich life
 
