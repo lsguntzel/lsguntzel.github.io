@@ -40,13 +40,13 @@ At its best, therapy is not just symptom management or problem- solving, but has
 I do not work directly with insurance companies. Fees are due at time of service. If you would like to submit your paid receipt for possible out-of network reimbursement by your insurance company, I will provide a superbill with diagnosis and procedure codes. 
   
 ## FAQ
-*Why don’t you accept insurance?*
+*Why don’t you accept insurance?*  
 This was a difficult decision for me. I want mental health care to be accessible. However, the limitations and mercurial nature of insurance reimbursement, which is predicated on a pathologizing philosophy of mental health that only accounts for a portion of the meaningful work done in therapy.
 
-*When do you see clients?*
+*When do you see clients?*. 
 I see clients in person only on Tuesday afternoons and evenings. I may have occasional telehealth availability on other days.
 
-*How often will we meet?*
+*How often will we meet?*  
 When possible, I prefer to begin therapy by meeting weekly for at least the first 3-4 weeks to complete the intake and goal-setting process, establish the therapeutic relationship, and begin to gain traction on therapy goals. After that time, sessions may be weekly or every two weeks. However, sometimes I may only have an every-other-week opening. 
 
 ## Contact and Location
