@@ -15,7 +15,9 @@ I will bring curiosity, perceptiveness, and investment in your success. My appro
 
 ## About Me
 
-Hello! I’m Laurel Severns Guntzel (M.Div, MA, LPCC) and I have always been deeply curious about the human condition. My background includes social justice activism, study of religion and theology, and since 2015, a career in psychology and mental health. Underlying all these pursuits have been existential and spiritual questions: How can we be most alive and authentic in our time on earth? Can we make meaning of suffering and injustice? How can we maintain integrity, connection, and purpose in the midst of a high-tech, capitalistic society?
+<div style="float: right; margin-left: 20px; margin-bottom: 20px;">
+  <img src="assets/img/lsg-photo.jpg" alt="Description of image" style="width: 300px;"/>
+</div> Hello! I’m Laurel Severns Guntzel (M.Div, MA, LPCC) and I have always been deeply curious about the human condition. My background includes social justice activism, study of religion and theology, and since 2015, a career in psychology and mental health. Underlying all these pursuits have been existential and spiritual questions: How can we be most alive and authentic in our time on earth? Can we make meaning of suffering and injustice? How can we maintain integrity, connection, and purpose in the midst of a high-tech, capitalistic society?
 
 I was born and raised in a diverse and vibrant community in Indianapolis, Indiana. I attended Earlham College, a Quaker liberal arts college that nurtured my love for learning and instilled a value of reflective practice. I lived in Washington DC, Chicago, and New York City before settling down with my husband in Minneapolis, where we live with two delightful and witty teenage sons and two eccentric cats. In addition to my private practice, I work in a university counseling center where I provide therapy to graduate and law students. 
 
