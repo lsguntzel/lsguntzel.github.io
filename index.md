@@ -54,7 +54,9 @@ I see clients in person only on Tuesday afternoons and evenings. I may have occa
 ***How often will we meet?***  
 When possible, I prefer to begin therapy by meeting weekly for at least the first 3-4 weeks to complete the intake and goal-setting process, establish the therapeutic relationship, and begin to gain traction on therapy goals. After that time, sessions may be weekly or every two weeks. However, sometimes I may only have an every-other-week opening.
 
-<h2 style="text-align: center;">Contact and Location</h2>
+<h2 style="text-align: center;">Contact</h2>
+If you are interested in working together, please contact me to schedule a free 20-minute consultation.
+
 Email: <a href="mailto:&#108;&#97;&#117;&#114;&#101;&#108;&#64;&#112;&#114;&#105;&#115;&#109;&#97;&#116;&#105;&#99;&#45;&#109;&#110;&#46;&#99;&#111;&#109;">&#108;&#97;&#117;&#114;&#101;&#108;&#64;&#112;&#114;&#105;&#115;&#109;&#97;&#116;&#105;&#99;&#45;&#109;&#110;&#46;&#99;&#111;&#109;</a><br>
 Voicemail: &#54;&#49;&#50;&#45;&#52;&#52;&#48;&#45;&#56;&#57;&#51;&#49;<br>
 [Client Portal](https://prismatic.sessionshealth.com/clients/sign_inClient) (For existing clients)
