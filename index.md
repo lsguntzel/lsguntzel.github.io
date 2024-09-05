@@ -13,7 +13,7 @@ I will bring curiosity, perceptiveness, and investment in your success. My appro
   
 ## About Me
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
-  <img src="assets/img/lsg-photo.jpg" alt="Description of image" style="width: 100%; max-width: 250px; height: auto;" />
+  <img src="assets/img/lsg-photo.jpg" alt="Description of image" style="max-width: 100%; height: auto; max-width: 300px;"/>
 </div>
 Hello! I’m Laurel Severns Guntzel (M.Div, MA, LPCC) and I have always been deeply curious about the human condition. My background includes social justice activism, study of religion and theology, and since 2015, a career in psychology and mental health. Underlying all these pursuits have been existential and spiritual questions: How can we be most alive and authentic in our time on earth? Can we make meaning of suffering and injustice? How can we maintain integrity, connection, and purpose in the midst of a high-tech, capitalistic society?
 
