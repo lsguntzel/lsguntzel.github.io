@@ -13,6 +13,7 @@ I have provided therapy in university, community, and hospital settings. My curr
 I will bring curiosity, perceptiveness, and investment in your success. My approach is collaborative, nonjudgmental, and direct. We will draw on depth-oriented approaches to support self-understanding and heal old wounds, along with practical skills to support you in making positive changes in your life today.
   
 ## About Me
+<br>
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
   <img src="assets/img/lsg-photo.jpg" alt="Description of image" style="max-width: 100%; height: auto; max-width: 300px;"/>
 </div>
