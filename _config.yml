@@ -19,8 +19,8 @@ author: Laurel Severns Guntzel
 # --- List of links in the navigation bar --- #
 ###############################################
 
-# navbar-links:
-#  Contact: "contact"
+ navbar-links:
+  Contact: "contact"
 #  Resources:
 #    - Example 1: "https://lsguntzel.github.io"
 #    - Example 2: "https://lsguntzel.github.io"
