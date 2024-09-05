@@ -12,8 +12,8 @@ I have provided therapy in university, community, and hospital settings. My curr
 I will bring curiosity, perceptiveness, and investment in your success. My approach is collaborative, nonjudgmental, and direct. We will draw on depth-oriented approaches to support self-understanding and heal old wounds, along with practical skills to support you in making positive changes in your life today.
   
 ## About Me
-<div style="float: right; margin-left: 20px; margin-bottom: 20px;">
-  <img src="assets/img/lsg-photo.jpg" alt="Description of image" style="width: 300px;"/>
+<div style="float: right; margin-left: 20px; margin-bottom: 20px; max-width: 100%; height: auto;">
+  <img src="assets/img/lsg-photo.jpg" alt="Description of image" style="max-width: 100%; height: auto;"/>
 </div>
 Hello! I’m Laurel Severns Guntzel (M.Div, MA, LPCC) and I have always been deeply curious about the human condition. My background includes social justice activism, study of religion and theology, and since 2015, a career in psychology and mental health. Underlying all these pursuits have been existential and spiritual questions: How can we be most alive and authentic in our time on earth? Can we make meaning of suffering and injustice? How can we maintain integrity, connection, and purpose in the midst of a high-tech, capitalistic society?
 
