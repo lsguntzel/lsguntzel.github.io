@@ -4,6 +4,7 @@ title: Prismatic Psychotherapy
 permalink: /
 ---
 <br>
+
 # Break Open and Illuminate
 You are smart, capable, introspective—and feeling stuck or struggling in some important area of your life. Perhaps you are a high performer in certain contexts, but seem to shut down or get counter-productive in others. Perhaps there is a painful or traumatic past experience that you need to process (even if it seems like you should have "gotten over it" by now). Maybe you are the person everyone leans on, but you're lacking adequate support for yourself.
 
@@ -26,7 +27,7 @@ I was born and raised in a diverse and vibrant community in Indianapolis, Indian
 - BA, Earlham College, Religion
   
 ## Working with Me
-My approach weaves depth psychology with present- and future- orientation. I find that sustainable growth happens through a combination of deep inner exploration and practical skill building: identifying what you want your life to be like; working with core beliefs and formative experiences; healing old or recent wounds; and pushing the edges of your comfort zone to create change. I believe therapy should be both challenging and affirming.
+My approach weaves depth psychology with present- and future- orientation. I find that sustainable growth happens through a combination of deep inner exploration and practical skill building: identifying what you want your life to be like, working with core beliefs and formative experiences, healing old or recent wounds, and pushing the edges of your comfort zone to create change. I believe therapy should be both challenging and affirming.
 
 I enjoy forming meaningful therapeutic bonds with my clients and learning to see the world through their eyes. Each client brings unique facets to therapy through their identities, cultures, beliefs, life experiences, and personalities. Each person I work with broadens and nuances my perspectives, helping me see aspects of life that I had never considered before. When therapy is working well, my clients report feeling a deeper sense of connection to themselves and others, greater self-appreciation, and fuller engagement in their lives. 
 
@@ -40,18 +41,18 @@ At its best, therapy is not just symptom management or problem- solving, but has
 I do not work directly with insurance companies. Fees are due at time of service. If you would like to submit your paid receipt for possible out-of network reimbursement by your insurance company, I will provide a superbill with diagnosis and procedure codes. 
   
 ## FAQ
-*Why don’t you accept insurance?*  
+***Why don’t you accept insurance?***  
 This was a difficult decision for me. I want mental health care to be accessible. However, the limitations and mercurial nature of insurance reimbursement, which is predicated on a pathologizing philosophy of mental health that only accounts for a portion of the meaningful work done in therapy.
 
-*When do you see clients?*  
+***When do you see clients?***  
 I see clients in person only on Tuesday afternoons and evenings. I may have occasional telehealth availability on other days.
 
-*How often will we meet?*  
+***How often will we meet?***  
 When possible, I prefer to begin therapy by meeting weekly for at least the first 3-4 weeks to complete the intake and goal-setting process, establish the therapeutic relationship, and begin to gain traction on therapy goals. After that time, sessions may be weekly or every two weeks. However, sometimes I may only have an every-other-week opening. 
 
 ## Contact and Location
-Office: My office is located in The Nest therapy collective at 4801 ½ Nicollet Ave in South Minneapolis. Street parking is typically available within 1 block of the entrance, and the area is served by multiple bus lines.
+**Office:** My office is located in The Nest therapy collective at 4801 ½ Nicollet Ave in South Minneapolis. Street parking is typically available within 1 block of the entrance, and the area is served by multiple bus lines.
 
-Accessibility: The Nest is unfortunately not ADA accessible and requires climbing one flight of stairs. If mobility concerns are an issue, please reach out so we can discuss options.
+**Accessibility:** The Nest is unfortunately not ADA accessible and requires climbing one flight of stairs. If mobility concerns are an issue, please reach out so we can discuss options.
 
-Hours: I see clients in person on Tuesdays, with occasional telehealth availability at other times. 
+**Hours:** I see clients in person on Tuesdays, with occasional telehealth availability at other times. 
