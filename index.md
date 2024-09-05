@@ -5,7 +5,7 @@ permalink: /
 ---
 <br>
 
-<h2 style="text-align: center;">Break Open and Illuminate</h2>
+<h2 style="text-align: center;"><em>Break Open and Illuminate</em></h2>
 You are smart, capable, introspective—and feeling stuck or struggling in some important area of your life. Perhaps you are a high performer in certain contexts, but seem to shut down or get counter-productive in others. Perhaps there is a painful or traumatic past experience that you need to process (even if it seems like you should have "gotten over it" by now). Maybe you are the person everyone leans on, but you're lacking adequate support for yourself.
 
 I have provided therapy in university, community, and hospital settings. My current practice focuses on adults with anxiety, trauma, grief, depression, perfectionism, ADHD, impostor syndrome, and relationship or family concerns. I use cognitive, mindfulness, and somatic approaches, including EMDR and Acceptance & Commitment Therapy.
