@@ -4,7 +4,6 @@ title: Prismatic Psychotherapy
 permalink: /
 ---
 <br>
-<br>
 # Break Open and Illuminate
 You are smart, capable, introspective—and feeling stuck or struggling in some important area of your life. Perhaps you are a high performer in certain contexts, but seem to shut down or get counter-productive in others. Perhaps there is a painful or traumatic past experience that you need to process (even if it seems like you should have "gotten over it" by now). Maybe you are the person everyone leans on, but you're lacking adequate support for yourself.
 
