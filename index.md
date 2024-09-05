@@ -46,7 +46,7 @@ I do not work directly with insurance companies. Fees are due at time of service
   
 <h2 style="text-align: center;">FAQ</h2>
 ***Why don’t you accept insurance?***  
-This was a difficult decision for me. I want mental health care to be accessible. However I do not want our work to be bound by the limitations and mercurial nature of insurance reimbursement, which is predicated on a pathologizing philosophy of mental health that only accounts for a portion of the meaningful work done in therapy. I do offer Superbills that you may submit to your insurance company for out-of-network reimbursement.
+This was a difficult decision for me. I want mental health care to be accessible. However, I do not want our work to be bound by the limitations and mercurial nature of insurance reimbursement, which is predicated on a pathologizing philosophy of mental health that only accounts for a portion of the meaningful work done in therapy. I do offer Superbills that you may submit to your insurance company for out-of-network reimbursement.
 
 ***When do you see clients?***  
 I see clients in person only on Tuesday afternoons and evenings. I may have occasional telehealth availability on other days.
