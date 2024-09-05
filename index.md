@@ -70,7 +70,8 @@ I see clients in person on Tuesdays, with occasional telehealth availability at 
 
 <h2 style="text-align: center;">Common Issues</h2>
 <p style="text-align: center;">
-  Anxiety  -  Trauma  - Depression  - Grief  - Perfectionism  - ADHD  - Impostor Syndrome  - Family of Origin Concerns
+  Anxiety  -  Trauma  - Depression  - Grief  - Perfectionism  - ADHD<br>
+  Impostor Syndrome  - Family of Origin Concerns
 </p>
 
 <p style="font-size: 0.9em; font-style: italic;">
