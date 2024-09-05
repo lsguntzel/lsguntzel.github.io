@@ -53,8 +53,8 @@ I see clients in person only on Tuesday afternoons and evenings. I may have occa
 When possible, I prefer to begin therapy by meeting weekly for at least the first 3-4 weeks to complete the intake and goal-setting process, establish the therapeutic relationship, and begin to gain traction on therapy goals. After that time, sessions may be weekly or every two weeks. However, sometimes I may only have an every-other-week opening.
 
 <h2 style="text-align: center;">Contact and Location</h2>
-Email: <a href="mailto:&#108;&#97;&#117;&#114;&#101;&#108;&#64;&#112;&#114;&#105;&#115;&#109;&#97;&#116;&#105;&#99;&#45;&#109;&#110;&#46;&#99;&#111;&#109;">&#108;&#97;&#117;&#114;&#101;&#108;&#64;&#112;&#114;&#105;&#115;&#109;&#97;&#116;&#105;&#99;&#45;&#109;&#110;&#46;&#99;&#111;&#109;</a>
-Voicemail: &#54;&#49;&#50;&#45;&#52;&#52;&#48;&#45;&#56;&#57;&#51;&#49;
+Email: <a href="mailto:&#108;&#97;&#117;&#114;&#101;&#108;&#64;&#112;&#114;&#105;&#115;&#109;&#97;&#116;&#105;&#99;&#45;&#109;&#110;&#46;&#99;&#111;&#109;">&#108;&#97;&#117;&#114;&#101;&#108;&#64;&#112;&#114;&#105;&#115;&#109;&#97;&#116;&#105;&#99;&#45;&#109;&#110;&#46;&#99;&#111;&#109;</a><br>
+Voicemail: &#54;&#49;&#50;&#45;&#52;&#52;&#48;&#45;&#56;&#57;&#51;&#49;<br>
 [Client Portal](https://prismatic.sessionshealth.com/clients/sign_inClient) (For existing clients)
 
 <h2 style="text-align: center;">Office, hours, and accessibility</h2>
@@ -69,7 +69,7 @@ I see clients in person on Tuesdays, with occasional telehealth availability at 
   Anxiety  -  Trauma  - Depression  - Grief  - Perfectionism  - ADHD  - Impostor Syndrome  - Family of Origin Concerns
 </p>
 
-<p style="font-size: 0.9em; text-align: center; font-style: italic;">
+<p style="font-size: 0.9em; font-style: italic;">
   Serving communities of Minneapolis, St. Paul, Richfield, Bloomington, Edina, St. Louis Park, Golden Valley, Robbinsdale, Hopkins, Crystal, Brooklyn Park, Brooklyn Center, New Brighton, Fridley, Columbia Heights, Roseville, Mendota Heights, and other Minnesota locations
 </p>
 
