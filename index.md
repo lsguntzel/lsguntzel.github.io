@@ -13,7 +13,7 @@ I have provided therapy in university, community, and hospital settings. My curr
 I will bring curiosity, perceptiveness, and investment in your success. My approach is collaborative, nonjudgmental, and direct. We will draw on depth-oriented approaches to support self-understanding and heal old wounds, along with practical skills to support you in making positive changes in your life today.
   
 <h2 style="text-align: center;">About Me</h2>
-<br>
+
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
   <img src="assets/img/lsg-photo.jpg" alt="Description of image" style="max-width: 100%; height: auto; max-width: 300px;"/>
 </div>
@@ -23,7 +23,7 @@ Hello! I’m Laurel Severns Guntzel (M.Div, MA, LPCC) and I have always been dee
 I was born and raised in a diverse and vibrant community in Indianapolis, Indiana. I attended Earlham College, a Quaker liberal arts college that nurtured my love for learning and instilled a value of reflective practice. I lived in Washington DC, Chicago, and New York City before settling down with my husband in Minneapolis, where we live with two delightful and witty teenage sons and two eccentric cats. In addition to my private practice, I work in a university counseling center where I provide therapy to graduate and law students. 
   
 <h2 style="text-align: center;">Credentials</h2>
-<br>
+
 - Minnesota Licensed Professional Clinical Counselor #01551 (Board of Behavioral Health and Therapy)
 - MA, St. Mary’s University of Minnesota, Counseling & Psychological Services
 - M.Div, Union Theological Seminary, Feminist Theology & Ritual
@@ -37,7 +37,7 @@ I enjoy forming meaningful therapeutic bonds with my clients and learning to see
 At its best, therapy is not just symptom management or problem- solving, but has a prismatic quality of inner work. Through the facets of cognitive, emotional, somatic, and sometimes spiritual exploration of your self and history, the therapy process refracts layers of meaning that lead to insight, connection, and awe.
   
 <h2 style="text-align: center;">Fees</h2>
-<br>
+
 - Consultation for potential clients (20 minutes by video call): Free
 - Intake session (55 minutes): $225
 - Therapy session (50 minutes): $185
