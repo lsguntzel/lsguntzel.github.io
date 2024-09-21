@@ -2,6 +2,24 @@
 layout: base
 ---
 
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <!-- Title and Description -->
+  <title>{{ page.title | escape }} | Laurel Severns Guntzel, Private Practice Therapist</title>
+  <meta name="description" content="{{ page.description | default: 'Laurel Severns Guntzel, Licensed Professional Clinical Counselor (LPCC) in Minneapolis, providing therapy for adults struggling with anxiety, trauma, grief, depression, perfectionism, ADHD, impostor syndrome, and more.' }}">
+  
+  <!-- Keywords -->
+  <meta name="keywords" content="Therapy, Minneapolis, Minnesota, Trauma Therapy, Anxiety, Grief, Depression, ADHD, Perfectionism, EMDR, ACT, Laurel Severns Guntzel, Licensed Therapist, Private Practice">
+
+  <!-- Canonical URL -->
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+
+  <!-- Other Meta Tags -->
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+</head>
+
 <div class="intro-header"></div>
 
 <main class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
