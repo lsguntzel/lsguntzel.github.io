@@ -25,7 +25,7 @@ I was born and raised in a diverse and vibrant community in Indianapolis, Indian
 <h2 style="text-align: center;">Credentials</h2>
 
 - Minnesota Licensed Professional Clinical Counselor #01551 (Board of Behavioral Health and Therapy)
-- EMDRIA Certified
+- EMDRIA Certified EMDR Therapist
 - MA, St. Mary’s University of Minnesota, Counseling & Psychological Services
 - M.Div, Union Theological Seminary, Feminist Theology & Ritual
 - BA, Earlham College, Religion
@@ -40,8 +40,9 @@ At its best, therapy is not just symptom management or problem- solving, but has
 <h2 style="text-align: center;">Fees</h2>
 
 - Consultation for potential clients (20 minutes by video call): Free
-- Intake session (55 minutes): $240
-- Therapy session (50 minutes): $190
+- Intake session (60 minutes): $240
+- Therapy session (50 minutes): $195
+- Extended EMDR therapy session (90 minutes): $300
 
 I do not work directly with insurance companies. Fees are due at time of service. If you would like to submit your paid receipt for possible out-of-network reimbursement by your insurance company, I will provide a superbill with diagnosis and procedure codes. 
   
