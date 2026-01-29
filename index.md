@@ -24,8 +24,9 @@ I was born and raised in a diverse and vibrant community in Indianapolis, Indian
   
 <h2 style="text-align: center;">Credentials</h2>
 
-- Minnesota Licensed Professional Clinical Counselor #01551 (Board of Behavioral Health and Therapy)
 - EMDRIA Certified EMDR Therapist
+- Minnesota Licensed Professional Clinical Counselor #01551 (Board of Behavioral Health and Therapy)
+- MN Board of Behavioral Health and Therapy Approved Supervisor for LPC and LPCC
 - MA, St. Mary’s University of Minnesota, Counseling & Psychological Services
 - M.Div, Union Theological Seminary, Feminist Theology & Ritual
 - BA, Earlham College, Religion
