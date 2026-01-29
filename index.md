@@ -5,15 +5,15 @@ permalink: /
 ---
 <br>
 <h2 style="text-align: center;"><em>Break Open and Illuminate</em></h2>
-
+<br>
 You are smart, capable, introspective—and feeling stuck or struggling in some important area of your life. Perhaps you are a high performer in certain contexts, but seem to shut down or get counter-productive in others. Perhaps there is a painful or traumatic past experience that you need to process (even if it seems like you should have "gotten over it" by now). Maybe you are the person everyone leans on, but you're lacking adequate support for yourself.
 
 I have provided therapy in university, community, and hospital settings. My current practice focuses on adults with anxiety, trauma, grief, depression, perfectionism, ADHD, impostor syndrome, and relationship or family concerns. I use somatic, cognitive, and mindfulness-based approaches, including EMDR and Acceptance & Commitment Therapy.
 
 I will bring curiosity, perceptiveness, and investment in your success. My approach is collaborative, nonjudgmental, and direct. We will draw on depth-oriented approaches to support self-understanding and heal old wounds, along with practical skills to support you in making positive changes in your life today.
-  
+<br>
 <h2 style="text-align: center;">About Me</h2>
-
+<br>
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
   <img src="assets/img/lsg-photo.jpg" alt="Description of image" style="max-width: 100%; height: auto; max-width: 300px;"/>
 </div>
@@ -21,9 +21,9 @@ I will bring curiosity, perceptiveness, and investment in your success. My appro
 Hello! I’m Laurel Severns Guntzel (M.Div, MA, LPCC) and I have always been deeply curious about the human condition. My background includes social justice activism, study of religion and theology, and since 2015, a career in psychology and mental health. Underlying all these pursuits have been existential and spiritual questions: How can we be most alive and authentic in our time on earth? Can we make meaning of suffering and injustice? How can we maintain integrity, connection, and purpose in the midst of a high-tech, capitalistic society?
 
 I was born and raised in a diverse and vibrant community in Indianapolis, Indiana. I attended Earlham College, a Quaker liberal arts college that nurtured my love for learning and instilled a value of reflective practice. I lived in Washington DC, Chicago, and New York City before settling down with my husband in Minneapolis, where we live with two delightful and witty teenage sons and two eccentric cats. In addition to my private practice, I work in a university counseling center where I provide therapy to graduate and law students. 
-  
+<br> 
 <h2 style="text-align: center;">Credentials</h2>
-
+<br>
 - EMDRIA Certified EMDR Therapist
 - Minnesota Licensed Professional Clinical Counselor #01551 (Board of Behavioral Health and Therapy)
 - MN Board of Behavioral Health and Therapy Approved Supervisor for LPC and LPCC
@@ -37,9 +37,9 @@ My approach weaves depth psychology with present- and future- orientation. I fin
 I enjoy forming meaningful therapeutic bonds with my clients and learning to see the world through their eyes. Each client brings unique facets to therapy through their identities, cultures, beliefs, life experiences, and personalities. Each person I work with broadens and nuances my perspectives, helping me see aspects of life that I had never considered before. When therapy is working well, my clients report feeling a deeper sense of connection to themselves and others, greater self-appreciation, and fuller engagement in their lives. 
 
 At its best, therapy is not just symptom management or problem- solving, but has a prismatic quality of inner work. Through the facets of cognitive, emotional, somatic, and sometimes spiritual exploration of your self and history, the therapy process refracts layers of meaning that lead to insight, connection, and awe.
-  
+<br>
 <h2 style="text-align: center;">Fees</h2>
-
+<br>
 - Consultation for potential clients (20 minutes by video call): Free
 - Intake session (60 minutes): $240
 - Therapy session (50 minutes): $195
