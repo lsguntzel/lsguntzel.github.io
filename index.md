@@ -12,7 +12,6 @@ I have provided therapy in university, community, and hospital settings. My curr
 
 I will bring curiosity, perceptiveness, and investment in your success. My approach is collaborative, nonjudgmental, and direct. We will draw on depth-oriented approaches to support self-understanding and heal old wounds, along with practical skills to support you in making positive changes in your life today.
 
-
 <h2 style="text-align: center;">About Me</h2>
 
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
@@ -23,7 +22,6 @@ Hello! I’m Laurel Severns Guntzel (M.Div, MA, LPCC) and I have always been dee
 
 I was born and raised in a diverse and vibrant community in Indianapolis, Indiana. I attended Earlham College, a Quaker liberal arts college that nurtured my love for learning and instilled a value of reflective practice. I lived in Washington DC, Chicago, and New York City before settling down with my husband in Minneapolis, where we live with two delightful and witty teenage sons and two eccentric cats. In addition to my private practice, I work in a university counseling center where I provide therapy to graduate and law students. 
 
-
 <h2 style="text-align: center;">Credentials</h2>
 
 - EMDRIA Certified EMDR Therapist
@@ -33,7 +31,6 @@ I was born and raised in a diverse and vibrant community in Indianapolis, Indian
 - M.Div, Union Theological Seminary, Feminist Theology & Ritual
 - BA, Earlham College, Religion
   
-
 <h2 style="text-align: center;">Working with Me</h2>
 
 My approach weaves depth psychology with present- and future- orientation. I find that sustainable growth happens through a combination of deep inner exploration and practical skill building: identifying what you want your life to be like; working with core beliefs and formative experiences; healing old or recent wounds; and pushing the edges of your comfort zone to create change. I believe therapy should be both challenging and affirming.
@@ -41,7 +38,6 @@ My approach weaves depth psychology with present- and future- orientation. I fin
 I enjoy forming meaningful therapeutic bonds with my clients and learning to see the world through their eyes. Each client brings unique facets to therapy through their identities, cultures, beliefs, life experiences, and personalities. Each person I work with broadens and nuances my perspectives, helping me see aspects of life that I had never considered before. When therapy is working well, my clients report feeling a deeper sense of connection to themselves and others, greater self-appreciation, and fuller engagement in their lives. 
 
 At its best, therapy is not just symptom management or problem- solving, but has a prismatic quality of inner work. Through the facets of cognitive, emotional, somatic, and sometimes spiritual exploration of your self and history, the therapy process refracts layers of meaning that lead to insight, connection, and awe.
-
 
 <h2 style="text-align: center;">Fees</h2>
 
@@ -52,7 +48,6 @@ At its best, therapy is not just symptom management or problem- solving, but has
 
 I do not work directly with insurance companies. Fees are due at time of service. If you would like to submit your paid receipt for possible out-of-network reimbursement by your insurance company, I will provide a superbill with diagnosis and procedure codes. 
   
-
 <h2 style="text-align: center;">FAQ</h2>
 
 ***Why don’t you accept insurance?***  
@@ -64,7 +59,6 @@ I see clients in person only on Tuesday afternoons and evenings. I may have occa
 ***How often will we meet?***  
 When possible, I prefer to begin therapy by meeting weekly for at least the first 3-4 weeks to complete the intake and goal-setting process, establish the therapeutic relationship, and begin to gain traction on therapy goals. After that time, sessions may be weekly or every two weeks. However, sometimes I may only have an every-other-week opening.
 
-
 <h2 style="text-align: center;">Contact</h2>
 
 If you are interested in working together, please contact me to schedule a free 20-minute consultation.
@@ -73,7 +67,6 @@ Email: <a href="mailto:&#108;&#97;&#117;&#114;&#101;&#108;&#64;&#112;&#114;&#105
 Voicemail: &#54;&#49;&#50;&#45;&#52;&#52;&#48;&#45;&#56;&#57;&#51;&#49;<br>
 [Client Portal](https://prismatic.sessionshealth.com/clients/sign_inClient) (For existing clients)
 
-
 <h2 style="text-align: center;">Office, hours, and accessibility</h2>
 
 My office is located in The Nest therapy collective at 4801 ½ Nicollet Avenue in South Minneapolis. Street parking is typically available within 1 block of the entrance and the area is served by multiple bus lines.
@@ -81,7 +74,6 @@ My office is located in The Nest therapy collective at 4801 ½ Nicollet Avenue i
 The Nest is unfortunately not ADA accessible and requires climbing one flight of stairs. If mobility concerns are an issue, please reach out so we can discuss options.
 
 I see clients in person on Tuesdays, with occasional telehealth availability at other times.
-
 
 <h2 style="text-align: center;">Common Issues</h2>
 <p style="text-align: center;">
