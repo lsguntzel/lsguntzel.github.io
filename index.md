@@ -54,7 +54,7 @@ I do not work directly with insurance companies. Fees are due at time of service
 This was a difficult decision for me. I want mental health care to be accessible. However, I do not want our work to be bound by the limitations and mercurial nature of insurance reimbursement, which is predicated on a pathologizing philosophy of mental health that only accounts for a portion of the meaningful work done in therapy. I do offer Superbills that you may submit to your insurance company for out-of-network reimbursement.
 
 ***When do you see clients?***  
-I see clients in person only on Tuesday afternoons and evenings. I may have occasional telehealth availability on other days.
+I see clients in person only on Thursday afternoons and evenings. I may have occasional telehealth availability on other days.
 
 ***How often will we meet?***  
 When possible, I prefer to begin therapy by meeting weekly for at least the first 3-4 weeks to complete the intake and goal-setting process, establish the therapeutic relationship, and begin to gain traction on therapy goals. After that time, sessions may be weekly or every two weeks. However, sometimes I may only have an every-other-week opening.
@@ -73,7 +73,7 @@ My office is located in The Nest therapy collective at 4801 ½ Nicollet Avenue i
 
 The Nest is unfortunately not ADA accessible and requires climbing one flight of stairs. If mobility concerns are an issue, please reach out so we can discuss options.
 
-I see clients in person on Tuesdays, with occasional telehealth availability at other times.
+I see clients in person on Thursdays, with occasional telehealth availability at other times.
 
 <h2 style="text-align: center;">Common Issues</h2>
 <p style="text-align: center;">
